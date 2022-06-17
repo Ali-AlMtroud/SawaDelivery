@@ -1,0 +1,4 @@
+#Wed Jun 15 17:15:48 GMT+02:00 2022
+base.0=D\:\\flutter\\OswaTech\\flutter_version\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
